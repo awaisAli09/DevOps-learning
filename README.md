@@ -1,11 +1,17 @@
 # DevOps-learning
 A written plan to learn devops tools and technologies.
 
-1- learn a cloud platform - for now it would be AWS
-2- Becoming proficient in infrastructure as code -- Terraform
-3- Learning CI/CD - for now focus on Github Actions
-4- learn Shell and python scripting
-5- Docker and K8S
+- learn Shell and python scripting (Basics are Done)
+
+- Docker and K8S
+
+- Learning CI/CD - for now focus on Github Actions
+
+- learn a cloud platform - for now it would be AWS
+
+- Becoming proficient in infrastructure as code -- Terraform
+
+ 
 
 **More specific Plan:**
 
