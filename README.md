@@ -1,5 +1,5 @@
 # DevOps-learning
-A written plan to learn devops tools and technologies.
+A written plan to learn devops tools and cloud technologies.
 
 - learn Shell and python scripting (Basics are Done)
 
