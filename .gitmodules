@@ -1,0 +1,3 @@
+[submodule "ci_cd/CICD-Pipeline"]
+	path = ci_cd/CICD-Pipeline
+	url = https://github.com/awaisAli09/DevOps-learning
